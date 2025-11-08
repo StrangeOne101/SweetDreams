@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.strangeone101.sweetdreams.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "client.BlockModelShaperMixin",
+    "client.ItemModelShaperMixin"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
